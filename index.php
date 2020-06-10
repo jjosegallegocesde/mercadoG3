@@ -1,6 +1,6 @@
 <?php 
 
-//Codigo para utilizar los condicionales en PHP
+
 
 $producto1="arroz";
 $producto2="aceite";
@@ -23,5 +23,7 @@ if($valorTotal<=50000){
 }else{
     echo("señor usuario salga ya mismo de esta tiendo, corra por su vida");
 }
+
+
 
 ?>
