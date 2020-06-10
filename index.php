@@ -1,5 +1,7 @@
 <?php 
 
+//Codigo para utilizar los condicionales en PHP
+
 $producto1="arroz";
 $producto2="aceite";
 $producto3="carne";
